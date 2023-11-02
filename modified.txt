@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Handsome Jom</title>
+    <link rel="stylesheet" href="homepage.css">
+        
+</head>
+<body>
+    <!--<div class = "bg">-->
+        <h1 style="text-align: center; font-family: Geneva; color:rgba(0, 0, 0, 0.842); background-color:rgba(217, 213, 201, 0.842);">Joules Martt Roaquin</h1>
+
+        <nav>
+            <div class="navbar">
+
+                <ul>
+                    <li><a href="Jomhomepage.html">Bio</a></li>
+                    <li><a href="#">Portfolio</a></li>
+                    <li><a href="#">About</a></li>
+                </ul>  
+        
+                <!--<img src="C:\Users\Roaquin\Desktop\htmlhomepage\pogi.jpg" id="jom">-->
+                <h1 style="font-family: Geneva; text-align:center; color:white;">Want to get to know more about one of the nation's most handsome face?<br> Then click the link below to know more about Joules Martt Roaquin</h1> 
+        </div>
+        </nav>
+    <!--</div>-->
+
+    
+</body>
+</html>

@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.img{
+    margin-left: 50px;
+}
+
+.img img{
+    width:425px; 
+    height:500px;    
+    padding: 20px;
+}

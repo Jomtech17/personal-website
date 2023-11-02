@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    width:100%;
+    height: 125vh;
+    background-image:linear-gradient(rgb(45, 52, 81),rgba(107, 225, 11, 0.7)), url(contact_bg.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat:no-repeat;
+}
+
+.tintin{
+    background: beige;
+    margin-left: 33%;
+    margin-top: 3%;
+    border-radius: 25px;
+    border: 2px solid #0e0e0e;
+    padding: 20px;
+    width: 500px;
+    height: 600px;
+}
+.tintin h3{
+    margin: 20px;
+    color: #0a0a0a;
+    font-family: 'Franklin Gothic Medium';
+}
+.tintin h1{
+    text-align: center;
+    font-family:Helvetica;
+    color: rgb(33, 147, 172);
+}
+.media{
+    display: inline-block;
+    margin-top: 45px;
+    margin-left: 30px;
+}
+.media ul li{
+    list-style-type:none;
+}
+.tintin img{
+    margin-bottom: 20px;
+    display: flex;
+    width: 50px;
+    height:50px;
+}
+.juice{
+    height: 58vh;
+    border: 2px solid #0a0a0a;
+}
+.contacticles{
+    margin-left:15%; ;
+    margin-bottom: 325px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.contacticles ul li{
+    list-style-type:none;
+    font-size: x-large;
+    font-family: sans-serif;
+    
+    margin-bottom: 40px;
+    margin-left: 5%;
+}
+.contacticles ul li a{
+    color: blue;
+    text-decoration: none;
+}
+
+.contacticles ul li a:hover{
+    color: crimson;
+}
